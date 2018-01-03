@@ -166,7 +166,7 @@
 
     Rocket.RADIUS = 3;
     Rocket.MAX_TIMING = 70;
-    Rocket.COLOR = 'rgb(72, 76, 72)';
+    Rocket.COLOR = 'rgb(255, 255, 255)';
 
 
     Rocket.prototype = Object.create(Sprite.prototype);
